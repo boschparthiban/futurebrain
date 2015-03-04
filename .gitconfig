@@ -1,0 +1,3 @@
+[merge "merge-gettext-po"]
+  name = merge driver for gettext po files
+  driver = /path/to/weblate/examples/git-merge-gettext-po %O %A %B
